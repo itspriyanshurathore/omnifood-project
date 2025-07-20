@@ -1,1 +1,2 @@
-# A Fully Responsive Website that are trying to clone UI
+# A Fully Responsive Website Clone of Omnifood
+Simple using of the basic of Html, css and js
